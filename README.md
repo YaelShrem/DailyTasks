@@ -1,1 +1,2 @@
-# DailyTasks-web-app
+# DailyTasks
+This is a simple web app for managing daily tasks, written in HTML, CSS, and JavaScript, using the cool stuff as localStorage, font-awesome, etc.
